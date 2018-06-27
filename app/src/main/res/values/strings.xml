@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">movieLists</string>
+    <string name="labelMovie">電影名稱︰</string>
+    <string name="labelDate">上映日期︰</string>
+    <string name="labelIntro">劇情簡介︰</string>
+</resources>
